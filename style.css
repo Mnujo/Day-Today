@@ -110,12 +110,12 @@ body{
 
 h1{
     color: black;
-    text-shadow: 0 3px 5px #7fb5df;
+    text-shadow: 0 3px 4px #7fb5df;
     color: black;
 }
 
 h2{
-    text-shadow: 0 3px 5px #7fb5df;
+    text-shadow: 0 3px 4px #7fb5df;
     color: black;
 }
 
@@ -166,7 +166,7 @@ h2{
 p{
     font-weight: 500;
     font-size: larger;
-    text-shadow: 0 2px 4px #7fb5df;
+    text-shadow: 0 2px 3px #7fb5df;
     color: black;
 }
 
